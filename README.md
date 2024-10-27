@@ -25,6 +25,10 @@ Below is the Proposed Architecture for MIPS Pipelined Architecture which takes c
 
 *Image taken from Digital Design and Computer Architecture by David Harris & Sarah Harris
 
+Below are the instructions Our Mips can Currenlty Execute 
+
+![image](https://github.com/user-attachments/assets/5582d771-916e-4f30-b26a-cc177bd3da3b)
+
 
 Below is the sample Test Code used for 5 stage Pipelined MIPS Processor.
 
