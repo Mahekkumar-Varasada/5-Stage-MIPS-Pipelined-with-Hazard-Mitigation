@@ -34,9 +34,14 @@ Below is the sample Test Code used for 5 stage Pipelined MIPS Processor.
 
 ![image](https://github.com/user-attachments/assets/a49212dc-205f-402d-9e42-0a073bda32d9)
 
-Simulation Results :- 
+Simulation Results Using ModelSim :- 
 
 ![new_simulation](https://github.com/user-attachments/assets/025bd460-9bca-4750-9948-44e8ea7bf1a2)
+
+Below is Power Required for Mips Processor Using Vivado :- 
+
+![mips_power](https://github.com/user-attachments/assets/e6f36eb9-bf6a-441d-838e-8ff997ac3630)
+
 
 
 Continuosly Bringing Improvements in Code-Base 
